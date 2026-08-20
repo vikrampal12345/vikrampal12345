@@ -1,201 +1,157 @@
 <div align="center">
 
-<img src="./assests/futuristic-background.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=VIKRAM%20PAL&fontSize=52&fontColor=ffffff&fontAlignY=40&color=gradient&animation=twinkling" width="100%"/>
 
 <br>
 
-# VIKRAM PAL
-
-### Computer Science Student | AI / Machine Learning | Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+AI%2FML+Projects;Exploring+Data+Science;Python+Developer;Learning+Machine+Learning;Turning+Ideas+Into+Working+Software">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI+%26+Machine+Learning;Python+Developer;Data+Science+Enthusiast;Building+Projects+That+Solve+Problems" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vikrampal12345&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB">
+<img src="https://komarev.com/ghpvc/?username=vikrampal12345&label=PROFILE+VIEWS&style=flat-square&color=6366F1"/>
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
+## About Me
 
-<td width="50%" valign="top">
-
-## About
+### Hello, I'm Vikram.
 
 I'm a Computer Science student exploring **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-I learn by building real projects, experimenting with different approaches, solving problems, debugging code, and understanding how things work under the hood.
+I learn by building. Instead of only following tutorials, I try to turn concepts into practical projects, experiment with different approaches, debug problems, and understand what is happening under the hood.
 
-Currently, I'm focused on strengthening my:
+Currently, I'm focused on strengthening my foundations in:
 
-- Machine Learning skills
-- Python development
-- Data Science fundamentals
-- Data Structures & Algorithms
-- Software Development
+* Machine Learning
+* Python
+* Data Science
+* Data Structures & Algorithms
+* Software Development
 
-**Learn. Build. Debug. Understand. Improve.**
-
-</td>
-
-<td width="50%" valign="top">
-
-## Focus
-
-### Machine Learning
-
-Building stronger foundations in preprocessing, feature engineering, model training and evaluation.
-
-### Data Science
-
-Working with NumPy, Pandas, Matplotlib and Seaborn.
-
-### Development
-
-Building practical applications with Python, C, JavaScript, HTML and CSS.
-
-### Problem Solving
-
-Practicing DSA and improving algorithmic thinking.
-
-</td>
-
-</tr>
-</table>
+I believe the best way to learn technology is to **build with it, break it, understand it, and improve it**.
 
 ---
 
-# TECH STACK
+## Tech Stack
 
-<table width="100%">
-<tr>
+### Programming Languages
 
-<td width="50%" valign="top">
-
-## PROGRAMMING
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,javascript" />
 </p>
 
-</td>
+### Web Development
 
-<td width="50%" valign="top">
-
-## WEB DEVELOPMENT
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-</td>
+### Data Science & Machine Learning
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## DATA SCIENCE
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-<p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+<br><br>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-</td>
+### Development Tools
 
-<td width="50%" valign="top">
-
-## MACHINE LEARNING
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-## TOOLS
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# THINGS I BUILD
+## Things I Build
 
-<table width="100%">
-<tr>
+### Resume Analyzer
 
-<td width="50%" valign="top">
+An AI/ML project that analyzes resume content and recommends suitable job roles based on extracted skills and resume information.
 
-## RESUME ANALYZER
+**Focus:** NLP · Machine Learning · Resume Analysis
 
-An AI/ML application that analyzes resume content and recommends suitable job roles based on extracted skills and resume information.
+---
 
-**Focus**
-
-`NLP` · `Machine Learning` · `Resume Analysis`
-
-</td>
-
-<td width="50%" valign="top">
-
-## BOOK RECOMMENDATION SYSTEM
+### Book Recommendation System
 
 A content-based recommendation system that recommends books based on similarity between their features.
 
-**Focus**
+**Focus:** Python · Pandas · Machine Learning · Recommendation Systems
 
-`Python` · `Pandas` · `Machine Learning`
+---
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## HOSPITAL MANAGEMENT SYSTEM
+### Hospital Management System
 
 A Python-based application designed to manage hospital-related information and operations.
 
-**Focus**
+**Focus:** Python · GUI · Application Development
 
-`Python` · `GUI` · `Application Development`
+---
 
-</td>
-
-<td width="50%" valign="top">
-
-## MORE PROJECTS
+### More Projects
 
 I'm continuously building and experimenting with new ideas as I learn new technologies.
 
-**Status**
+**Status:** Always Building
 
-`ALWAYS BUILDING`
+---
 
-</td>
+## What I'm Learning
 
-</tr>
-</table>
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2600&pause=1200&color=6366F1&width=650&lines=Machine+Learning;Data+Science;Data+Structures+%26+Algorithms;Advanced+Python;JavaScript;Software+Development" />
+
+</div>
+
+---
+
+## Developer Mindset
+
+> Learn the concept.
+> Build something with it.
+> Debug what breaks.
+> Understand why it broke.
+> Improve the solution.
+
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1500&color=6366F1&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Understand+%E2%86%92+Improve" />
+
+</div>
+
+
+## GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrampal12345&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+---
+
+## Typing Speed
+
+<img src="https://img.shields.io/badge/Average%20Typing%20Speed-62%20WPM-6366F1?style=for-the-badge&logo=keyboard&logoColor=white"/>
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://github.com/vikrampal12345">
+<img src="https://img.shields.io/badge/GitHub-vikrampal12345-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient"/>
+
+### Building. Learning. Debugging. Improving.
+
+</div>
