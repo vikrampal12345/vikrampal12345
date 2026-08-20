@@ -124,14 +124,6 @@ I'm continuously building and experimenting with new ideas as I learn new techno
 </div>
 
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikrampal12345&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-</div>
----
 
 ## Typing Speed
 
