@@ -123,33 +123,6 @@ I'm continuously building and experimenting with new ideas as I learn new techno
 
 </div>
 
----
-
-## GitHub Statistics
-
----
-
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikrampal12345&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrampal12345&layout=compact&theme=transparent&hide_border=true" width="41%" />
-
-</div>
-
-<br>
-
-<div align="left">
-
-<img src="https://streak-stats.demolab.com/?user=vikrampal12345&theme=transparent&hide_border=true" width="70%" />
-
-</div>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=vikrampal12345&theme=transparent&hide_border=true"/>
-
----
 
 ## GitHub Activity
 
