@@ -65,3 +65,137 @@ Practicing DSA and improving algorithmic thinking.
 
 </tr>
 </table>
+
+---
+
+# TECH STACK
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## PROGRAMMING
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## WEB DEVELOPMENT
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## DATA SCIENCE
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## MACHINE LEARNING
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+## TOOLS
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# THINGS I BUILD
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## RESUME ANALYZER
+
+An AI/ML application that analyzes resume content and recommends suitable job roles based on extracted skills and resume information.
+
+**Focus**
+
+`NLP` · `Machine Learning` · `Resume Analysis`
+
+</td>
+
+<td width="50%" valign="top">
+
+## BOOK RECOMMENDATION SYSTEM
+
+A content-based recommendation system that recommends books based on similarity between their features.
+
+**Focus**
+
+`Python` · `Pandas` · `Machine Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## HOSPITAL MANAGEMENT SYSTEM
+
+A Python-based application designed to manage hospital-related information and operations.
+
+**Focus**
+
+`Python` · `GUI` · `Application Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+## MORE PROJECTS
+
+I'm continuously building and experimenting with new ideas as I learn new technologies.
+
+**Status**
+
+`ALWAYS BUILDING`
+
+</td>
+
+</tr>
+</table>
