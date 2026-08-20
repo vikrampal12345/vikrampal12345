@@ -1,86 +1,261 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=VIKRAM%20PAL&fontSize=55&fontColor=ffffff&color=0:0f172a,100:312e81&stroke=6366f1&strokeWidth=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=VIKRAM%20PAL&fontSize=55&fontColor=ffffff&fontAlignY=40&color=0:0f172a,50:312e81,100:4f46e5&animation=twinkling" width="100%"/>
 
-<h3>AI/ML Developer | Python Developer | Computer Science Student</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Python+Developer;Data+Science+Enthusiast;Building+Projects%2C+Not+Just+Tutorials;Learning+Something+New+Every+Day" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI%2FML+Projects;Learning+Machine+Learning;Python+%7C+C+%7C+JavaScript;Data+Science+%7C+DSA;Always+Learning+Something+New">
+<br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=vikrampal12345&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vikrampal12345&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I am a Computer Science student focused on Artificial Intelligence,
-Machine Learning and Software Development.
+## `> whoami`
 
-I enjoy building practical projects, learning new technologies,
-solving programming problems and improving my understanding of
-Artificial Intelligence and Data Science.
+</div>
 
-- Python Developer
-- Learning Machine Learning
-- Practicing Data Structures and Algorithms
-- Building AI/ML projects
-- Interested in Data Science
-- Working with data analysis and visualization
-- Exploring software development
+<table align="center">
+<tr>
+<td width="60%">
+
+### Hello, I'm Vikram.
+
+I'm a Computer Science student exploring the intersection of **Artificial Intelligence, Machine Learning, Data Science and Software Development**.
+
+I learn by building.
+
+Instead of only watching tutorials, I try to turn what I learn into real projects, experiment with different approaches, break things, debug them, and understand what is happening under the hood.
+
+Currently, I'm focused on becoming stronger in:
+
+* Machine Learning
+* Python
+* Data Science
+* Data Structures & Algorithms
+* Software Development
+
+My goal isn't to know everything.
+
+**My goal is to keep getting better at building things.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikrampal12345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Skills
+<div align="center">
+
+## `> current_status`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6366F1&center=true&vCenter=true&width=700&lines=Learning+Machine+Learning...;Practicing+DSA...;Building+AI%2FML+Projects...;Improving+Python...;Debugging+Code...;Repeat." />
+
+</div>
+
+---
+
+## Tech Stack
 
 ### Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,javascript" />
+
+</div>
 
 ### Web Development
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
 
-### Data Science
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</div>
+
+### Data Science & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
 
-### Machine Learning
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+### Development Tools
 
-### Tools
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-## What I Work With
+<div align="center">
+
+## `> things_I_build`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### Resume Analyzer
+
+An AI/ML project that analyzes resume content and recommends suitable job roles based on skills and resume information.
+
+**Focus:** NLP | Machine Learning | Resume Analysis
+
+</td>
+
+<td width="50%">
+
+### Book Recommendation System
+
+A content-based recommendation system that recommends books based on similarity between their features.
+
+**Focus:** Python | Machine Learning | Recommendation Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Hospital Management System
+
+A Python-based application designed to manage hospital-related information and operations.
+
+**Focus:** Python | GUI | Application Development
+
+</td>
+
+<td width="50%">
+
+### More Projects
+
+I'm continuously building and experimenting with new ideas as I learn new technologies.
+
+**Status:** Always Building
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> what_I_am_learning`
+
+</div>
 
 ```text
-Programming       Python, C, JavaScript
-Web Development   HTML, CSS, JavaScript
-Data Science      NumPy, Pandas, Matplotlib, Seaborn
-Machine Learning  Scikit-Learn
-Tools             Git, GitHub, VS Code
+Machine Learning       ███████████████░░░░░  Learning
+Data Science           ███████████████░░░░░  Learning
+Python                 █████████████████░░░  Improving
+DSA                    ████████████░░░░░░░░  Practicing
+JavaScript             ██████████░░░░░░░░░░  Learning
+Software Development   ██████████░░░░░░░░░░  Building
+```
+
+---
+
+<div align="center">
+
+## `> developer_stats`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrampal12345&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=vikrampal12345&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Typing Speed
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Average%20Typing%20Speed-62%20WPM-6366F1?style=for-the-badge&logo=keyboard"/>
+
+<br><br>
+
+`62 WPM`
+
+</div>
+
+---
+
+<div align="center">
+
+## `> my_developer_mindset`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Learn+the+concept;Build+something;Break+something;Debug+it;Understand+why;Improve+it;Repeat." />
+
+</div>
+
+---
+
+## Currently Working On
+
+```text
+[■■■■■■■■■■■■■■■■■■■■] Learning Machine Learning
+
+[■■■■■■■■■■■■■■■■░░░░] Building AI/ML Projects
+
+[■■■■■■■■■■■■░░░░░░░░] Practicing DSA
+
+[■■■■■■■■■■░░░░░░░░░░░] Improving Python
+
+[■■■■■■■■░░░░░░░░░░░░░] Exploring New Technologies
+```
+
+---
+
+<div align="center">
+
+## `> GitHub Activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrampal12345&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> connect`
+
+<a href="https://github.com/vikrampal12345">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4f46e5,50:312e81,100:0f172a" width="100%"/>
+
+### `Building. Learning. Debugging. Improving.`
+
+</div>
